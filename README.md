@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saawal</h1>
 <h3 align="center">Data Analyst and Machine learning enthusiast from India</h3>
 <img align="right" alt="code" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif">
-- 🔭 I’m currently working on **Large Language chat Model**
 
-- 🌱 I’m currently learning **Microsoft Azure, Large Language Modelling,Python**
+- 🔭 I’m currently working on  **Large Language chat Model**
+
+- 🌱 I’m currently learning  **Microsoft Azure, Large Language Modelling,Python**
 
 - 💬 Ask me about **C++, SQL, DBMS, PYTHON**
 
